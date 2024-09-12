@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **marshallalkarim@(protonmail/gmail).com**
 
-- ⚡ Fun fact **Jack of all trades**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/marshall-al-karim-316a1b156" target="blank">
