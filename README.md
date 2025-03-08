@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Certifications**
 
-- 🌱 I’m currently learning **Infinite Learning Advance AI (IBM) and Photogrammetry (Independent/Agisoft)**
+- 🌱 I’m currently learning **MOOC fi python and ML**
 
 - 📫 How to reach me **marshallalkarim@(protonmail/gmail).com**
 
