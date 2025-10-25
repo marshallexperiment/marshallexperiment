@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **marshallalkarim@(protonmail/gmail).com**
 
-- 👩🏻‍💻💼👨🏻‍🎓 Interned at Frisdhy Angel Women and Children hospital
+- 👩🏻‍💻💼👨🏻‍🎓 Interned at **Frisdhy Angel Women and Children hospital**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
