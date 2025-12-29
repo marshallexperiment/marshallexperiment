@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marshallexperiment&label=Profile%20views&color=0e75b6&style=flat" alt="marshallexperiment" /> </p>
 
-- 🌱 I’m currently learning **Computer Architecture and Basic IC Design, used to learn ML**
+- 🌱 I’m currently learning **Computer Architecture and Digital Design**
 
 - 📫 How to reach me **marshallalkarim@(protonmail/gmail).com**
 
-- 👩🏻‍💻💼👨🏻‍🎓 Interned at **Frisdhy Angel Women and Children hospital**
+- 👩🏻‍💻💼👨🏻‍🎓 Interned at **Frisdhy Angel Women and Children hospital as Software Developer, Working porting SIMRS-Khanza code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
