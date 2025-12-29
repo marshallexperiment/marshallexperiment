@@ -42,6 +42,25 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
     </a>
+  <!-- Verilog -->
+<a href="https://www.chipverify.com/verilog" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Verilog_logo.svg"
+         alt="verilog" width="40" height="40"/>
+</a>
+
+<!-- Intel Quartus -->
+<a href="https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html"
+   target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Intel_FPGA_logo.svg"
+         alt="quartus" width="40" height="40"/>
+</a>
+
+<!-- Xilinx Vivado -->
+<a href="https://www.xilinx.com/products/design-tools/vivado.html"
+   target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Xilinx_Logo.svg"
+         alt="xilinx vivado" width="40" height="40"/>
+</a>
 </p>
 
 
