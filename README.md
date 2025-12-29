@@ -42,10 +42,13 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
     </a>
-    <img src="https://img.shields.io/badge/HDL-Verilog-blue?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Intel-Quartus_Prime-0071C5?style=for-the-badge&logo=intel"/>
-    <img src="https://img.shields.io/badge/Xilinx-Vivado-E01F27?style=for-the-badge&logo=xilinx"/>
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/HDL-Verilog-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Intel-Quartus_Prime-0071C5?style=for-the-badge&logo=intel"/>
+  <img src="https://img.shields.io/badge/Xilinx-Vivado-E01F27?style=for-the-badge&logo=xilinx"/>
+</p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marshallexperiment&show_icons=true&locale=en&layout=compact" alt="marshallexperiment" /></p>
