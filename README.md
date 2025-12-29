@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Marshall Al Karim</h1>
-<h3 align="center">A Machine Learning students from Indonesia</h3>
+<h3 align="center">Interested in Hardware, particularly in Digital Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marshallexperiment&label=Profile%20views&color=0e75b6&style=flat" alt="marshallexperiment" /> </p>
 
